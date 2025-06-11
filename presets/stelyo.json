@@ -1,0 +1,8 @@
+{
+  "name": "stelyo",
+  "intro": "assets/IntroFile5.mp3",
+  "outro": "assets/Outrofile5.mp3",
+  "background": "assets/stelyo_youtube_thumb.png",
+  "intro_overlap_sec": 18,
+  "outro_overlap_sec": 13
+}
